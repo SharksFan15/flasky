@@ -1,11 +1,11 @@
 # flasky
 
 ## Create Virtual Environment
-`cd flasky`
+`cd flasky`<br>
 `python3 -m venv virtual-environment-name`<br>
 `python3 -m venv venv`
 ## Acitvate Virtual Environment
-`cd flasky`
+`cd flasky`<br>
 `source venv/bin/activate`
 ## Start Development Web Server
 `export FLASK_APP=hello.py`<br>
